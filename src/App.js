@@ -11,7 +11,7 @@ import About from "./pages/About";
 function App() {
   return (
     <Router>
-      <Navbar title={"TextTools"} />
+      <Navbar title={"TextTool"} />
 
       <Routes>
         <Route path="/" element={<Home />} />
