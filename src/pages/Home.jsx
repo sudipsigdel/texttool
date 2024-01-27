@@ -70,7 +70,7 @@ export default function Home() {
     </div>
 
     <footer className="container">
-    <p className="float-left">Copyright 2024 @ TextUtils</p>
+    <p className="float-left">Copyright 2024 @ TextTool</p>
     <p className="float-right"><a href="#top">Back to top</a></p>
     </footer>
     </>
